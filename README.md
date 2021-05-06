@@ -31,5 +31,26 @@ Plaster looking test block, kinda cool
 
 <h3> Strong Steel Block</h3>
 <p>Internal Name: blk_strongsteel</p>
-<p>Color: N/A (block not printable)
+<p>Color: N/A (block not paintable)
 Similar to Concrete 02
+
+<h3> Superstrong Steel</h3>
+<p>Internal Name: blk_superstrongsteel</p>
+<p>Color: N/A (block not paintable)
+EXTREMELY shiny, identical to Strong Steel
+
+<h3> Superheavy Concrete</h3>
+<p>Internal Name: blk_superheavyconcrete</p>
+<p>Color: N/A (block not paintable)
+Similar to insulation block, but with concrete
+
+<h3> Concrete Tiles 02</h3>
+<p>Internal Name: blk_concretetiles02v2</p>
+<p>Color: Black</p>
+EXTREMELY shiny
+
+<h3> Taped Plaster</h3>
+<p>Internal Name: blk_plaster_taped</p>
+<p>Color: Light Gray</p>
+Replaced with standalone tapes instead of a block
+
