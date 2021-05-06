@@ -4,6 +4,7 @@
 <p>The files from this mod were extracted from the survival_prerelease branch of the game. 
 they were removed in the retail build, and are subject to return in chapter 2.</p>
 
+<h2>Blocks</h2>
 <h3> Ice Block </h3>
 <p>Internal Name: blk_ice</p>
 <p>Color: non applicable (texture not paintable)</p>
@@ -54,3 +55,9 @@ EXTREMELY shiny
 <p>Color: Light Gray</p>
 Replaced with standalone tapes instead of a block
 
+<h2>Tiles</h2>
+<p>CampingSpot_Meadow_64_02-06</p>
+<p>were unfinished variants of meadow caged farmer place</p>
+
+<p>FarmbotGraveyard_03</p>
+<p>3rd variant of farmbot forest, super unfinished, later cut</p>
