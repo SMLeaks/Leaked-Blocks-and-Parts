@@ -56,8 +56,8 @@ EXTREMELY shiny
 Replaced with standalone tapes instead of a block
 
 <h2>Tiles</h2>
-<p>CampingSpot_Meadow_64_02-06</p>
+<h3>CampingSpot_Meadow_64_02-06</h3>
 <p>were unfinished variants of meadow caged farmer place</p>
 
-<p>FarmbotGraveyard_03</p>
+<h3>FarmbotGraveyard_03</h3>
 <p>3rd variant of farmbot forest, super unfinished, later cut</p>
