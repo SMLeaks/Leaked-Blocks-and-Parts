@@ -38,12 +38,12 @@ Similar to Concrete 02
 <h3> Superstrong Steel</h3>
 <p>Internal Name: blk_superstrongsteel</p>
 <p>Color: N/A (block not paintable)
-EXTREMELY shiny, identical to Strong Steel
+EXTREMELY shiny, similar to Strong Steel
 
 <h3> Superheavy Concrete</h3>
 <p>Internal Name: blk_superheavyconcrete</p>
 <p>Color: N/A (block not paintable)
-Similar to insulation block, but with concrete
+
 
 <h3> Concrete Tiles 02</h3>
 <p>Internal Name: blk_concretetiles02v2</p>
