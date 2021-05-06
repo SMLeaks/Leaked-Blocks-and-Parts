@@ -1,2 +1,57 @@
-/*Look in Data/Gui/Language/English/inventoryItemDescriptions.json for info on how to set up this file*/
-null
+{
+	"c6f86d19-b54b-4b0e-80b2-7d11631928b6":
+	{
+		"title": "Coal Block",
+		"description": "Block of Coal. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"53686904-f4e7-4a89-925d-64f3a62879e1":
+	{
+		"title": "Concrete Slab Block v2",
+		"description": "A different version of the Concrete Slab Block. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"7bc7fb6a-84fe-4791-8062-effdf8489544":
+	{
+		"title": "Copper Block",
+		"description": "Block of Copper. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"36b277ba-72d7-44c6-894d-e28d7900cbcf":
+	{
+		"title": "Ice Block",
+		"description": "Block of Ice. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"db1932f4-aae6-4af9-890f-aac4d2c142e6":
+	{
+		"title": "Mechanical Block",
+		"description": "Block looking like a PCB with various circuitry on it. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"fe9d25c5-7a7d-4384-9a70-3899728dbee2":
+	{
+		"title": "Taped Plaster Block",
+		"description": "A Plaster Block covered with Tape. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"f1bd3bf7-0b6c-4685-bbd4-ffae1ea50b30":
+	{
+		"title": "Strong Steel Block",
+		"description": "Blocks of Strong Steel. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73":
+	{
+		"title": "Super Heavy Concrete Block",
+		"description": "A Block of Super Heavy Concrete. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"0e3eca03-e1b3-433a-9945-1e5afd14b028":
+	{
+		"title": "Super Strong Steel Block",
+		"description": "A Block of Super Strong Steel. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"ce808348-28a0-4f12-889f-bfbd35a469a7":
+	{
+		"title": "Test01 Block",
+		"description": "A Block called Test01. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"b1ca2719-e37c-42eb-951e-3129ee0273da":
+	{
+		"title": "Building01 Block",
+		"description": "A Block called Building01. \n\nThe textures for it were found in version 0.5 of the game."
+	}
+}
