@@ -5,6 +5,6 @@
 they were removed in the retail build, and are subject to return in chapter 2.</p>
 
 <h3> Ice Block </h3>
-<p>Ice Block
-Color: non applicable (texture not paintable)
-EXTREMELY shiny</p>
+<p>Ice Block</p>
+<p>Color: non applicable (texture not paintable)</p>
+EXTREMELY shiny
