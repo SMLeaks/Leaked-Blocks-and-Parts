@@ -4,3 +4,7 @@
 <p>The files from this mod were extracted from the survival_prerelease branch of the game. 
 they were removed in the retail build, and are subject to return in chapter 2.</p>
 
+<h3> Ice Block </h3>
+<p>Ice Block
+Color: non applicable (texture not paintable)
+EXTREMELY shiny</p>
