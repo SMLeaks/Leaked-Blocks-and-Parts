@@ -190,6 +190,25 @@
 			"flammable": false,
 			"density": 500.0,
 			"qualityLevel": 2
+		},
+		{
+			"uuid": "b1ca2719-e37c-42eb-951e-3129ee0273da",
+			"name": "blk_building01",
+			"dif": "$MOD_DATA/Objects/Textures/Blocks/blk_building01_dif.tga",
+			"asg": "$MOD_DATA/Objects/Textures/Blocks/blk_building01_asg.tga",
+			"nor": "$MOD_DATA/Objects/Textures/Blocks/blk_building01_nor.tga",
+			"tiling": 16,
+			"color": "848484",
+			"physicsMaterial": "Rock",
+			"ratings": {
+				"density": 6,
+				"durability": 3,
+				"friction": 6,
+				"buoyancy": 5
+			},
+			"flammable": false,
+			"density": 500.0,
+			"qualityLevel": 2
 		}
    
    
