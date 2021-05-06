@@ -209,6 +209,25 @@
 			"flammable": false,
 			"density": 500.0,
 			"qualityLevel": 2
+		},
+		
+		
+		{
+			"uuid": "0347134a-43d3-4e1b-9e53-ff0b3f2803ac",
+			"name": "blk_old_insulation",
+			"dif": "$MOD_DATA/Objects/Textures/Blocks/blk_insulation01_dif.tga",
+			"asg": "$MOD_DATA/Objects/Textures/Blocks/blk_insulation01_asg.tga",
+			"nor": "$MOD_DATA/Objects/Textures/Blocks/blk_insulation01_nor.tga",
+			"color": "debe5d",
+			"physicsMaterial": "Plastic",
+			"ratings": {
+				"density": 2, 
+				"durability": 2, 
+				"friction": 5, //some of those were referenced from modern day insulation
+				"buoyancy": 6 
+			},
+			"flammable": true,
+			"density": 250.0
 		}
    
    
