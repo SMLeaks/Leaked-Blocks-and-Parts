@@ -7,7 +7,7 @@
 	"53686904-f4e7-4a89-925d-64f3a62879e1":
 	{
 		"title": "Concrete Slab Block v2",
-		"description": "A different version of the Concrete Slab Block. \n\nThe textures for it were found in the prerelease of Survival mode."
+		"description": "A different version of the Concrete Slab Block. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
 	},
 	"7bc7fb6a-84fe-4791-8062-effdf8489544":
 	{
@@ -16,8 +16,13 @@
 	},
 	"36b277ba-72d7-44c6-894d-e28d7900cbcf":
 	{
+		"title": "Ice Block [Transparent]",
+		"description": "Block of Ice, transparent version. We weren't able to tell if it should be transparent or not. \n\nThe textures for it were found in the prerelease of Survival mode."
+	},
+	"36b277ba-72d7-44c6-894d-e28d7900cbce":
+	{
 		"title": "Ice Block",
-		"description": "Block of Ice. \n\nThe textures for it were found in the prerelease of Survival mode."
+		"description": "Block of Ice. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
 	},
 	"db1932f4-aae6-4af9-890f-aac4d2c142e6":
 	{
@@ -37,12 +42,12 @@
 	"0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73":
 	{
 		"title": "Super Heavy Concrete Block",
-		"description": "A Block of Super Heavy Concrete. \n\nThe textures for it were found in the prerelease of Survival mode."
+		"description": "A Block of Super Heavy Concrete. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
 	},
 	"0e3eca03-e1b3-433a-9945-1e5afd14b028":
 	{
 		"title": "Super Strong Steel Block",
-		"description": "A Block of Super Strong Steel. \n\nThe textures for it were found in the prerelease of Survival mode."
+		"description": "A Block of Super Strong Steel. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
 	},
 	"ce808348-28a0-4f12-889f-bfbd35a469a7":
 	{
@@ -53,5 +58,25 @@
 	{
 		"title": "Building01 Block",
 		"description": "A Block called Building01. \n\nThe textures for it were found in version 0.5 of the game."
+	},
+	"e2801e6a-7608-4284-a03a-76148a2bf498":
+	{
+		"title": "Grow Light - Round",
+		"description": "A Round Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!"
+	},
+	"b016c495-db82-4f31-87ee-8b70ae614fc2":
+	{
+		"title": "Grow Light - LED Big",
+		"description": "A Big LED Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!"
+	},
+	"e924ef68-d10e-4e57-bbf1-cc5fff255e1a":
+	{
+		"title": "Grow Light - LED",
+		"description": "A small LED Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!"
+	},
+	"0347134a-43d3-4e1b-9e53-ff0b3f2803ac":
+	{
+		"title": "Insulation Block [Old]",
+		"description": "Old version of the Insulation Block. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures were taken from version 0.1.16, but it can be found in the files to this day [0.5.1]."
 	}
 }

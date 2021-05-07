@@ -11,10 +11,10 @@
                             {
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightround_dif.tga",
-                                    "",
-                                    "obj_light_growlightround_nor.tga"
+                                    "$MOD_DATA/Objects/Textures/Blocks/white.tga",
+                                    "$MOD_DATA/Objects/Textures/lights/obj_light_growlightround_nor.tga"
                                 ],
-                                "material": "Dif"
+                                "material": "DifAsgNor"
                             }
                         ],
                         "mesh": "$MOD_DATA/Objects/Mesh/lights/obj_light_growlightround.mesh"
@@ -25,7 +25,7 @@
 			"color": "b3c2cb",
 			"cylinder": { "diameter": 3, "depth": 1, "axis": "Y" },
 			"physicsMaterial": "Plastic",
-			"sticky": "+Y"
+			"sticky": "-Y"
 		},
 		{
 			"legacyId": 202,
@@ -38,9 +38,9 @@
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightledbig_dif.tga",
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightledbig_asg.tga",
-                                    ""
+                                    "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.tga"
                                 ],
-                                "material": "Dif"
+                                "material": "DifAsgNor"
                             }
                         ],
                         "mesh": "$MOD_DATA/Objects/Mesh/lights/obj_light_growlightledbig.mesh"
@@ -49,7 +49,7 @@
             },
 			"rotationSet": "PropY",
 			"color": "c3c3c3",
-			"box": { "x": 3, "y": 1, "z": 6 },
+			"box": { "x": 6, "y": 1, "z": 3 },
 			"physicsMaterial": "Plastic",
 			"sticky": "-Y"
 		},
@@ -64,9 +64,9 @@
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightled_dif.tga",
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightled_asg.tga",
-                                    ""
+                                    "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.tga"
                                 ],
-                                "material": "Dif"
+                                "material": "DifAsgNor"
                             }
                         ],
                         "mesh": "$MOD_DATA/Objects/Mesh/lights/obj_light_growlightled.mesh"
