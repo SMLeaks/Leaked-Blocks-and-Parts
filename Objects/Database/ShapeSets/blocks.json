@@ -236,6 +236,39 @@
 			},
 			"flammable": true,
 			"density": 250.0
+		},
+		{
+			"uuid": "10eaa2ea-7a33-4012-9b64-cc8f7baf79f4",
+			"name": "blk_old_spaceship",
+			"dif": "$MOD_DATA/Objects/Textures/Blocks/blk_spaceship01_dif.tga",
+			"asg": "$MOD_DATA/Objects/Textures/Blocks/blk_spaceship01_asg.tga",
+			"nor": "$MOD_DATA/Objects/Textures/Blocks/blk_spaceship01_nor.tga",
+			"color": "af967b",
+			"physicsMaterial": "Metal",
+			"ratings": {
+				"density": 2, 
+				"durability": 2, 
+				"friction": 5, //some of those were taken from 0.1.16
+				"buoyancy": 6 
+			},
+			"flammable": true,
+			"density": 1250.0
+		},
+		{
+			"uuid": "17e98b8b-0168-4c32-a465-d60f6ac88443",
+			"name": "blk_old_indestructible",
+			"dif": "$MOD_DATA/Objects/Textures/Blocks/blk_indestructable01_dif.tga",
+			"asg": "$MOD_DATA/Objects/Textures/Blocks/white.png",
+			"nor": "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.png",
+			"color": "3f2d1f",
+			"physicsMaterial": "Metal",
+			"ratings": {
+				"density": 2, 
+				"durability": 2, 
+				"friction": 5, //some of those were taken from 0.1.16
+				"buoyancy": 6 
+			},
+			"flammable": false
 		}
    
    
