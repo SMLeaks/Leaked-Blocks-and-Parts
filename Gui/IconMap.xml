@@ -59,6 +59,9 @@
             <Index name="e924ef68-d10e-4e57-bbf1-cc5fff255e1a">
                 <Frame point="192 288"/>
             </Index>
+            <Index name="f35b4300-f939-40c1-82a4-9ab371eed6f2">
+                <Frame point="288 288"/>
+            </Index>
         </Group>
     </Resource>
 </MyGUI>
