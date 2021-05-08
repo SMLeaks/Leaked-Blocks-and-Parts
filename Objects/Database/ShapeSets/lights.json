@@ -11,7 +11,7 @@
                             {
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightround_dif.tga",
-                                    "$MOD_DATA/Objects/Textures/Blocks/white.tga",
+                                    "$MOD_DATA/Objects/Textures/Blocks/white.png",
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightround_nor.tga"
                                 ],
                                 "material": "DifAsgNor"
@@ -38,7 +38,7 @@
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightledbig_dif.tga",
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightledbig_asg.tga",
-                                    "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.tga"
+                                    "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.png"
                                 ],
                                 "material": "DifAsgNor"
                             }
@@ -64,7 +64,7 @@
                                 "textureList": [
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightled_dif.tga",
                                     "$MOD_DATA/Objects/Textures/lights/obj_light_growlightled_asg.tga",
-                                    "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.tga"
+                                    "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.png"
                                 ],
                                 "material": "DifAsgNor"
                             }
