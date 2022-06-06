@@ -1,0 +1,356 @@
+[
+	{
+		//Coal Block
+		"itemId": "c6f86d19-b54b-4b0e-80b2-7d11631928b6",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811" //scrap wood
+			},
+			{
+				"quantity": 1,
+				"itemId": "267e0c93-62e3-45ad-9470-a14035cb9ca4" //ember
+			}
+		]
+	},
+	
+	{
+		//Concrete slab v2
+		"itemId": "749f69e0-56c9-488c-adf6-66c58531818c",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4" //concrete
+			}
+		]
+	},
+	
+	{
+		//Copper
+		"itemId": "7bc7fb6a-84fe-4791-8062-effdf8489544",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e" //metal 1
+			}
+		]
+	},
+	
+	{
+		//ice transparent
+		"itemId": "36b277ba-72d7-44c6-894d-e28d7900cbcf",
+		"quantity": 20,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f" //glass
+			},
+			{
+				"quantity": 2,
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28" //water
+			}
+		]
+	},
+	
+	{
+		//ice opaque
+		"itemId": "36b277ba-72d7-44c6-894d-e28d7900cbce",
+		"quantity": 20,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "5f41af56-df4c-4837-9b3c-10781335757f" //glass
+			},
+			{
+				"quantity": 2,
+				"itemId": "869d4736-289a-4952-96cd-8a40117a2d28" //water
+			}
+		]
+	},
+	
+	{
+		//mechanical block
+		"itemId": "7bc7fb6a-84fe-4791-8062-effdf8489544",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 2,
+				"itemId": "f152e4df-bc40-44fb-8d20-3b3ff70cdfe3" //circuit board
+			}
+		]
+	},
+	
+	{
+		//taped plaster
+		"itemId": "36b277ba-72d7-44c6-894d-e28d7900cbce",
+		"quantity": 20,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 16,
+				"itemId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4" //concrete
+			},
+			{
+				"quantity": 1,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565" //glue
+			}
+		]
+	},
+	
+	{
+		//strong steel
+		"itemId": "f1bd3bf7-0b6c-4685-bbd4-ffae1ea50b30",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f" //metal 2
+			}
+		]
+	},
+	
+	{
+		//super strong steel
+		"itemId": "0e3eca03-e1b3-433a-9945-1e5afd14b028",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "c0dfdea5-a39d-433a-b94a-299345a5df46" //metal 3
+			}
+		]
+	},
+	
+	{
+		//super heavy concrete
+		"itemId": "0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "e281599c-2343-4c86-886e-b2c1444e8810" //concrete 3
+			}
+		]
+	},
+	
+	{
+		//test 01
+		"itemId": "ce808348-28a0-4f12-889f-bfbd35a469a7",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 6,
+				"itemId": "a6c6ce30-dd47-4587-b475-085d55c6a3b4" //concrete
+			},
+			{
+				"quantity": 2,
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7" //paint
+			}
+		]
+	},
+	
+	{
+		//building 01
+		"itemId": "b1ca2719-e37c-42eb-951e-3129ee0273da",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "1f7ac0bb-ad45-4246-9817-59bdf7f7ab39" //scrap metal
+			}
+		]
+	},
+	
+	{
+		//growlight round
+		"itemId": "e2801e6a-7608-4284-a03a-76148a2bf498",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "ed27f5e2-cac5-4a32-a5d9-49f116acc6af" //headlight
+			},
+			{
+				"quantity": 4,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e" //metal 1
+			}
+		]
+	},
+	{
+		//growlight led big
+		"itemId": "b016c495-db82-4f31-87ee-8b70ae614fc2",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "ed27f5e2-cac5-4a32-a5d9-49f116acc6af" //headlight
+			},
+			{
+				"quantity": 8,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e" //metal 1
+			}
+		]
+	},
+	{
+		//growlight led smol
+		"itemId": "e924ef68-d10e-4e57-bbf1-cc5fff255e1a",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "ed27f5e2-cac5-4a32-a5d9-49f116acc6af" //headlight
+			},
+			{
+				"quantity": 4,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e" //metal 1
+			}
+		]
+	},
+	
+	{
+		//old insulation block
+		"itemId": "0347134a-43d3-4e1b-9e53-ff0b3f2803ac",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "3440440b-d362-4473-aa03-b7c41e1fe7ad" //cotton
+			},
+			{
+				"quantity": 1,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e" //metal 1
+			}
+		]
+	},
+	
+	{
+		//old spaceship block
+		"itemId": "10eaa2ea-7a33-4012-9b64-cc8f7baf79f4",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 10,
+				"itemId": "027bd4ec-b16d-47d2-8756-e18dc2af3eb6" //spaceship
+			}
+		]
+	},
+	
+	{
+		//antenna 02
+		"itemId": "f35b4300-f939-40c1-82a4-9ab371eed6f2",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e" //metal 1
+			}
+		]
+	},
+	
+	{
+		//icon display spaceship
+		"itemId": "cee1a3e5-7734-45b0-861f-3dfecf3d94e5",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "dfefc9d7-db03-4d25-ad85-eae1d824d8c0" //radio
+			}
+		]
+	},
+	{
+		//icon display deathbag
+		"itemId": "2d3a82a3-076e-45bd-8367-8f0f1abf6010",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "dfefc9d7-db03-4d25-ad85-eae1d824d8c0" //radio
+			}
+		]
+	},
+	{
+		//icon display station
+		"itemId": "f0377f58-0bba-480f-9ec9-46348995a037",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "dfefc9d7-db03-4d25-ad85-eae1d824d8c0" //radio
+			}
+		]
+	},
+	
+	{
+		//spaceship interior gear
+		"itemId": "8ab33adb-aad6-4d84-b627-af2fdc7d4ac4",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 8,
+				"itemId": "027bd4ec-b16d-47d2-8756-e18dc2af3eb6" //spaceship
+			}
+		]
+	},
+	{
+		//spaceship old controlboard
+		"itemId": "780379e9-fb76-48dd-aed0-02709db7d24e",
+		"quantity": 1,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 20,
+				"itemId": "027bd4ec-b16d-47d2-8756-e18dc2af3eb6" //spaceship
+			}
+		]
+	},
+	{
+		//pumpkin decor
+		"itemId": "9e98bfbc-011c-4642-a19b-392c2126c220",
+		"quantity": 10,
+		"craftTime": 32,
+		"ingredientList": [
+			{
+				"quantity": 1,
+				"itemId": "ed27f5e2-cac5-4a32-a5d9-49f116acc6af" //headlight
+			},
+			{
+				"quantity": 10,
+				"itemId": "1fc74a28-addb-451a-878d-c3c605d63811" //scrap wood
+			},
+			{
+				"quantity": 1,
+				"itemId": "36335664-6e61-4d44-9876-54f9660a8565" //glue
+			},
+			{
+				"quantity": 1,
+				"itemId": "c7322cd1-3158-41d9-b15a-eff2f2f8d9f7" //paint
+			}
+		]
+	}
+]
+]
