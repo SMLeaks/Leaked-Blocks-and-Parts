@@ -1,6 +1,6 @@
 {
    "allow_add_mods" : true,
-   "custom_icons" : false,
+   "custom_icons" : true,
    "description" : "This Mod adds Blocks and Parts that were leaked and found in the game files!\r\nFor now there are 3 parts and 15 blocks, but more is coming soon!\r\n\r\nTo learn more about each block/part, read it's ingame description!\r\n\r\nJoin the SMLeaks discord server here:\r\nhttps://discord.gg/YKSrNW567G\r\n\r\nVideo Presentations of the Mod:\r\nV1.0: SOON!\r\n\r\nChangelog:\r\nV1.0.1:\r\n-Fixed a bug that caused the description of Concrete Slab v2 to get cut off on lower resolutions (thanks @DANGER for reporting this bug!)\r\nV1.0.0:\r\nAdded 15 blocks:\r\n-Coal Block\r\n-Concrete Slab Block v2\r\n-Copper Block\r\n-Ice Block (in 2 versions: transparent and opaque)\r\n-Mechanical Block\r\n-Taped Plaster Block\r\n-Strong Steel Block\r\n-Super Strong Steel Block\r\n-Super Heavy Concrete Block\r\n-Test01 Block\r\n-Building01 Block\r\n-old Insulation Block\r\n-old Spaceship Block\r\n-old Indestructible Block\r\nAdded 3 parts:\r\n-Grow Light - Round\r\n-Grow Light - LED Big\r\n-Grow Light - LED",
    "fileId" : 2481146118,
    "localId" : "4d9d663d-3216-42b1-9a9a-286ca774ce4d",
