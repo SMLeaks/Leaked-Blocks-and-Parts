@@ -1,0 +1,64 @@
+{
+   "partList" : [
+      {
+         "color" : "FF0000",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1
+         },
+         "name" : "spaceship_icon",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "icondisplay",
+            "filename" : "$CONTENT_DATA/Scripts/display-icon.lua"
+         },
+         "showInInventory" : true,
+         "stackSize" : 12,
+         "sticky" : "-Y",
+         "uuid" : "cee1a3e5-7734-45b0-861f-3dfecf3d94e5"
+      },
+      {
+         "color" : "0000FF",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1
+         },
+         "name" : "station_icon",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "icondisplay",
+            "filename" : "$CONTENT_DATA/Scripts/display-icon.lua"
+         },
+         "showInInventory" : true,
+         "stackSize" : 12,
+         "sticky" : "-Y",
+         "uuid" : "f0377f58-0bba-480f-9ec9-46348995a037"
+      },
+      {
+         "color" : "FFFF00",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1
+         },
+         "name" : "deathbag_icon",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "icondisplay",
+            "filename" : "$CONTENT_DATA/Scripts/display-icon.lua"
+         },
+         "showInInventory" : true,
+         "stackSize" : 12,
+         "sticky" : "-Y",
+         "uuid" : "2d3a82a3-076e-45bd-8367-8f0f1abf6010"
+      }
+   ]
+}

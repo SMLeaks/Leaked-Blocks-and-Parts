@@ -1,0 +1,30 @@
+{
+   "partList" : [
+      {
+         "color" : "999999",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3
+         },
+         "name" : "obj_spaceship_interiorgear",
+         "physicsMaterial" : "Metal",
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_spaceship_interiorgear.rend",
+         "rotationSet" : "PropZ",
+         "uuid" : "8ab33adb-aad6-4d84-b627-af2fdc7d4ac4"
+      },
+      {
+         "box" : {
+            "x" : 6,
+            "y" : 3,
+            "z" : 3
+         },
+         "color" : "6A6A6A",
+         "name" : "obj_spaceship_interiorcontrolboard",
+         "physicsMaterial" : "Mechanical",
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_spaceship_interiorcontrolboard.rend",
+         "rotationSet" : "PropFull",
+         "uuid" : "780379e9-fb76-48dd-aed0-02709db7d24e"
+      }
+   ]
+}

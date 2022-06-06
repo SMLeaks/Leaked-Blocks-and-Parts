@@ -1,0 +1,43 @@
+{
+   "partList" : [
+      {
+         "color" : "930000",
+         "flammable" : false,
+         "hull" : {
+            "col" : "$CONTENT_4d9d663d-3216-42b1-9a9a-286ca774ce4d/Objects/Collision/obj_industrial_satellite02.obj",
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "obj_industrial_satellite02",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$MOD_DATA/Objects/Mesh/industrial/obj_industrial_satellite02.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/industrial/obj_industrial_satellite_dif.tga",
+                           "$MOD_DATA/Objects/Textures/industrial/obj_industrial_satellite_asg.tga",
+                           "$MOD_DATA/Objects/Textures/industrial/obj_industrial_satellite_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZmmNegZmm",
+         "showInInventory" : true,
+         "sticky" : "-Z+Z",
+         "uuid" : "f35b4300-f939-40c1-82a4-9ab371eed6f2"
+      }
+   ]
+}

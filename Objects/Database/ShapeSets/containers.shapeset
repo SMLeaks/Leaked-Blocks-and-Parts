@@ -1,0 +1,17 @@
+{
+   "partList" : [
+      {
+         "color" : "008ae1",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 4,
+            "diameter" : 3
+         },
+         "name" : "obj_containers_waterbarrel",
+         "physicsMaterial" : "Plastic",
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_containers_waterbarrel.rend",
+         "rotationSet" : "PropY",
+         "uuid" : "67640178-561c-423b-9176-e1d2ea8bb1cb"
+      }
+   ]
+}

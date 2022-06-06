@@ -1,0 +1,17 @@
+{
+   "partList" : [
+      {
+         "color" : "FFF71E",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 3,
+            "diameter" : 3
+         },
+         "name" : "obj_decor_plasticpumpkin",
+         "physicsMaterial" : "Plastic",
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_decor_plasticpumpkin.rend",
+         "rotationSet" : "PropY",
+         "uuid" : "9e98bfbc-011c-4642-a19b-392c2126c220"
+      }
+   ]
+}

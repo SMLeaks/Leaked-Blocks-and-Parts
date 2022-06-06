@@ -1,0 +1,268 @@
+{
+   "blockList" : [
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_coal_asg.tga",
+         "color" : "222222",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_coal_dif.tga",
+         "flammable" : true,
+         "name" : "blk_coal",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_coal_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 6,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "tiling" : 16,
+         "uuid" : "c6f86d19-b54b-4b0e-80b2-7d11631928b6"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_concretetiles02v2_asg.tga",
+         "color" : "b39674",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_concretetiles02v2_dif.tga",
+         "flammable" : false,
+         "name" : "blk_concretetiles_02",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_concretetiles02v2_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 4,
+            "friction" : 7
+         },
+         "tiling" : 16,
+         "uuid" : "749f69e0-56c9-488c-adf6-66c58531818c"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_copper_asg.tga",
+         "color" : "b87333",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_copper_dif.tga",
+         "flammable" : true,
+         "name" : "blk_copper",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_copper_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "tiling" : 8,
+         "uuid" : "7bc7fb6a-84fe-4791-8062-effdf8489544"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_iceblock_asg.tga",
+         "color" : "4c6fe3",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_iceblock_dif.tga",
+         "flammable" : true,
+         "glass" : true,
+         "name" : "blk_ice",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_iceblock_nor.tga",
+         "physicsMaterial" : "Glass",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 3,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "tiling" : 8,
+         "uuid" : "36b277ba-72d7-44c6-894d-e28d7900cbcf"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_iceblock_opaque_asg.tga",
+         "color" : "7eeded",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_iceblock_dif.tga",
+         "flammable" : false,
+         "name" : "blk_ice_opaque",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_iceblock_nor.tga",
+         "physicsMaterial" : "Glass",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 3,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "tiling" : 8,
+         "uuid" : "36b277ba-72d7-44c6-894d-e28d7900cbce"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_mechanical_asg.tga",
+         "color" : "0e8031",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_mechanical_dif.tga",
+         "flammable" : true,
+         "name" : "blk_mechanical",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_mechanical_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "tiling" : 8,
+         "uuid" : "db1932f4-aae6-4af9-890f-aac4d2c142e6"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_plaster_taped_asg.tga",
+         "color" : "979797",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_plaster_taped_dif.tga",
+         "flammable" : false,
+         "name" : "blk_plastertaped",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_plaster_taped_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "tiling" : 8,
+         "uuid" : "fe9d25c5-7a7d-4384-9a70-3899728dbee2"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_strongsteel_asg.tga",
+         "color" : "7f7f7f",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_strongsteel_dif.tga",
+         "flammable" : false,
+         "name" : "blk_strongsteel",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_strongsteel_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "tiling" : 16,
+         "uuid" : "f1bd3bf7-0b6c-4685-bbd4-ffae1ea50b30"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_superstrongsteel_asg.tga",
+         "color" : "eeeeee",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_superstrongsteel_dif.tga",
+         "flammable" : false,
+         "name" : "blk_superstrongsteel",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_superstrongsteel_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 5,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "tiling" : 16,
+         "uuid" : "0e3eca03-e1b3-433a-9945-1e5afd14b028"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_superheavyconcrete_asg.tga",
+         "color" : "8d8f89",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_superheavyconcrete_dif.tga",
+         "flammable" : false,
+         "name" : "blk_superheavyconcrete",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_superheavyconcrete_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 9,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "tiling" : 16,
+         "uuid" : "0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_test01_asg.tga",
+         "color" : "979797",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_test01_dif.tga",
+         "flammable" : false,
+         "name" : "blk_test01",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_test01_nor.tga",
+         "physicsMaterial" : "Rock",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "tiling" : 16,
+         "uuid" : "ce808348-28a0-4f12-889f-bfbd35a469a7"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_building01_asg.tga",
+         "color" : "eeaf5c",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_building01_dif.tga",
+         "flammable" : false,
+         "name" : "blk_building01",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_building01_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "tiling" : 16,
+         "uuid" : "b1ca2719-e37c-42eb-951e-3129ee0273da"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_insulation01_asg.tga",
+         "color" : "debe5d",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_insulation01_dif.tga",
+         "flammable" : true,
+         "name" : "blk_old_insulation",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_insulation01_nor.tga",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "tiling" : 4,
+         "uuid" : "0347134a-43d3-4e1b-9e53-ff0b3f2803ac"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/blk_spaceship01_asg.tga",
+         "color" : "af967b",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_spaceship01_dif.tga",
+         "flammable" : false,
+         "name" : "blk_old_spaceship",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/blk_spaceship01_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "10eaa2ea-7a33-4012-9b64-cc8f7baf79f4"
+      },
+      {
+         "asg" : "$MOD_DATA/Objects/Textures/Blocks/white.png",
+         "color" : "3f2d1f",
+         "dif" : "$MOD_DATA/Objects/Textures/Blocks/blk_indestructable01_dif.tga",
+         "flammable" : false,
+         "name" : "blk_old_indestructible",
+         "nor" : "$MOD_DATA/Objects/Textures/Blocks/nonor_nor.png",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 10,
+            "friction" : 4
+         },
+         "restrictions" : {
+            "buildable" : false,
+            "convertibleToDynamic" : false,
+            "destructable" : false,
+            "erasable" : false,
+            "liftable" : false,
+            "paintable" : false
+         },
+         "tiling" : 4,
+         "uuid" : "17e98b8b-0168-4c32-a465-d60f6ac88443"
+      }
+   ]
+}

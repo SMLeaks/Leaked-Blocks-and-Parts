@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/containers/obj_containers_waterbarrel.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/containers/obj_decor_waterbarrel_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/containers/obj_decor_waterbarrel_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/containers/obj_decor_waterbarrel_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

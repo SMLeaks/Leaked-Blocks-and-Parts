@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/spaceship/obj_spaceship_interiorgear.mesh",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/spaceship/obj_spaceship_interiorgear_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/spaceship/obj_spaceship_interiorgear_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/spaceship/obj_spaceship_interiorgear_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

@@ -88,5 +88,49 @@
 	{
 		"title": "Indestructible Block [Old]",
 		"description": "Indestructible Block found in the old versions of the game. \nA predecessor to today's Cracked Concrete/Framework Block! \n\n#FF0800Use #3D3DFF/restrictions #FF0800when working with it!!\n\n#909191The textures were taken from version 0.1.16."
+	},
+	"f35b4300-f939-40c1-82a4-9ab371eed6f2":
+	{
+		"title": "Antenna Dish 02",
+		"description": "Unused, third, antenna dish! Can be found in the files to this day (at least 0.6.2)."
+	},
+	//ICONS
+	"cee1a3e5-7734-45b0-861f-3dfecf3d94e5":
+	{
+		"title": "Modern Spaceship Icon",
+		"description": "This NEW unused Spaceship Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
+	},
+	"f0377f58-0bba-480f-9ec9-46348995a037":
+	{
+		"title": "Modern Mechanic Station Icon",
+		"description": "This NEW unused Mechanic Station Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
+	},
+	"2d3a82a3-076e-45bd-8367-8f0f1abf6010":
+	{
+		"title": "Modern Deathbag Icon",
+		"description": "This NEW unused Deathbag Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
+	},
+	//SPACESHIP
+	"8ab33adb-aad6-4d84-b627-af2fdc7d4ac4":
+	{
+		"title": "Spaceship Interior Gear",
+		"description": ""
+	},
+	"780379e9-fb76-48dd-aed0-02709db7d24e":
+	{
+		"title": "Old Spaceship Controlboard",
+		"description": "This NEW unused Deathbag Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
+	},
+	//CONTAINERS
+	"67640178-561c-423b-9176-e1d2ea8bb1cb":
+	{
+		"title": "Water Container",
+		"description": "Similar to the blueberry container, but is a separate models + of course the textures.\n\nInterestingly, there are 2 sets of textures for this, 1 titled decor and 1 titled container. the NOR and ASG are the same, but for the dif the decor is 2x the size of the containers one (1024x vs 512x). \nCan be found in the game files since prerelease 0.4 until today (0.6.2). "
+	},
+	//DECOR
+	"9e98bfbc-011c-4642-a19b-392c2126c220":
+	{
+		"title": "Plastic Pumpkin",
+		"description": "Plastic pumpkin, most likely for a cancelled halloween update. Sourced from 0.4 prerelease. \nThe model is in .mesh format, meaning it's probably quite old. "
 	}
 }
