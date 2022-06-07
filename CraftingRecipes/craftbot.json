@@ -331,7 +331,7 @@
 	{
 		//pumpkin decor
 		"itemId": "9e98bfbc-011c-4642-a19b-392c2126c220",
-		"quantity": 10,
+		"quantity": 1,
 		"craftTime": 32,
 		"ingredientList": [
 			{
@@ -352,5 +352,4 @@
 			}
 		]
 	}
-]
 ]
