@@ -1,0 +1,18 @@
+{
+   "partList" : [
+      {
+         "color" : "9f2600",
+         "friction" : 0.250,
+         "name" : "obj_challenge_interactive_ball",
+         "physicsMaterial" : "Metal",
+         "qualityLevel" : 0,
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_interactive_challengeball.rend",
+         "rotationSet" : "PropZ",
+         "sphere" : {
+            "diameter" : 5
+         },
+         "sticky" : "-Z",
+         "uuid" : "874428b5-4495-4884-ac96-2669eff04183"
+      }
+   ]
+}

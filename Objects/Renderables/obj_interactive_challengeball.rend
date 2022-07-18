@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/challenge/obj_interactive_challengeball.obj",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/challenge/obj_interactive_challengeball_dif.tga",
+                  "$GAME_DATA/Textures/Default/default_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/challenge/obj_interactive_challengeball_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

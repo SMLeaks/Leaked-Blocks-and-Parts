@@ -1,136 +1,110 @@
 {
-	"c6f86d19-b54b-4b0e-80b2-7d11631928b6":
-	{
-		"title": "Coal Block",
-		"description": "Block of Coal. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"749f69e0-56c9-488c-adf6-66c58531818c":
-	{
-		"title": "Concrete Slab Block v2",
-		"description": "A different version of the Concrete Slab Block. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look.\nThe UUID of this block was taken from the Leaked Warehouse from 2017, as we are almost completely sure that this block was used for the floor of it. \nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"7bc7fb6a-84fe-4791-8062-effdf8489544":
-	{
-		"title": "Copper Block",
-		"description": "Block of Copper. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"36b277ba-72d7-44c6-894d-e28d7900cbcf":
-	{
-		"title": "Ice Block [Transparent]",
-		"description": "Block of Ice, transparent version. We weren't able to tell if it should be transparent or not. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"36b277ba-72d7-44c6-894d-e28d7900cbce":
-	{
-		"title": "Ice Block",
-		"description": "Block of Ice. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"db1932f4-aae6-4af9-890f-aac4d2c142e6":
-	{
-		"title": "Mechanical Block",
-		"description": "Block looking like a PCB with various circuitry on it. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"fe9d25c5-7a7d-4384-9a70-3899728dbee2":
-	{
-		"title": "Taped Plaster Block",
-		"description": "A Plaster Block covered with Tape. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"f1bd3bf7-0b6c-4685-bbd4-ffae1ea50b30":
-	{
-		"title": "Strong Steel Block",
-		"description": "Blocks of Strong Steel. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73":
-	{
-		"title": "Super Heavy Concrete Block",
-		"description": "A Block of Super Heavy Concrete. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"0e3eca03-e1b3-433a-9945-1e5afd14b028":
-	{
-		"title": "Super Strong Steel Block",
-		"description": "A Block of Super Strong Steel. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"ce808348-28a0-4f12-889f-bfbd35a469a7":
-	{
-		"title": "Test01 Block",
-		"description": "A Block called Test01. \n\nThe textures for it were found in the prerelease of Survival mode."
-	},
-	"b1ca2719-e37c-42eb-951e-3129ee0273da":
-	{
-		"title": "Building01 Block",
-		"description": "A Block called Building01. \n\nThe textures for it were found in version 0.5 of the game."
-	},
-	"e2801e6a-7608-4284-a03a-76148a2bf498":
-	{
-		"title": "Grow Light - Round",
-		"description": "A Round Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!"
-	},
-	"b016c495-db82-4f31-87ee-8b70ae614fc2":
-	{
-		"title": "Grow Light - LED Big",
-		"description": "A Big LED Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!"
-	},
-	"e924ef68-d10e-4e57-bbf1-cc5fff255e1a":
-	{
-		"title": "Grow Light - LED",
-		"description": "A small LED Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!"
-	},
-	"0347134a-43d3-4e1b-9e53-ff0b3f2803ac":
-	{
-		"title": "Insulation Block [Old]",
-		"description": "Old version of the Insulation Block. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures were taken from version 0.1.16, but it can be found in the files to this day [0.5.1]."
-	},
-	"10eaa2ea-7a33-4012-9b64-cc8f7baf79f4":
-	{
-		"title": "Spaceship Block [Old]",
-		"description": "Old version of the Spaceship Block. \n\nThe textures were taken from version 0.1.16."
-	},
-	"17e98b8b-0168-4c32-a465-d60f6ac88443":
-	{
-		"title": "Indestructible Block [Old]",
-		"description": "Indestructible Block found in the old versions of the game. \nA predecessor to today's Cracked Concrete/Framework Block! \n\n#FF0800Use #3D3DFF/restrictions #FF0800when working with it!!\n\n#909191The textures were taken from version 0.1.16."
-	},
-	"f35b4300-f939-40c1-82a4-9ab371eed6f2":
-	{
-		"title": "Antenna Dish 02",
-		"description": "Unused, third, antenna dish! Can be found in the files to this day (at least 0.6.2)."
-	},
-	//ICONS
-	"cee1a3e5-7734-45b0-861f-3dfecf3d94e5":
-	{
-		"title": "Modern Spaceship Icon",
-		"description": "This NEW unused Spaceship Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
-	},
-	"f0377f58-0bba-480f-9ec9-46348995a037":
-	{
-		"title": "Modern Mechanic Station Icon",
-		"description": "This NEW unused Mechanic Station Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
-	},
-	"2d3a82a3-076e-45bd-8367-8f0f1abf6010":
-	{
-		"title": "Modern Deathbag Icon",
-		"description": "This NEW unused Deathbag Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
-	},
-	//SPACESHIP
-	"8ab33adb-aad6-4d84-b627-af2fdc7d4ac4":
-	{
-		"title": "Spaceship Interior Gear",
-		"description": ""
-	},
-	"780379e9-fb76-48dd-aed0-02709db7d24e":
-	{
-		"title": "Old Spaceship Controlboard",
-		"description": "This NEW unused Deathbag Quest-Marker icon appeared in the files during the rollout of 0.6 test verions."
-	},
-	//CONTAINERS
-	"67640178-561c-423b-9176-e1d2ea8bb1cb":
-	{
-		"title": "Water Container",
-		"description": "Similar to the blueberry container, but is a separate models + of course the textures.\n\nInterestingly, there are 2 sets of textures for this, 1 titled decor and 1 titled container. the NOR and ASG are the same, but for the dif the decor is 2x the size of the containers one (1024x vs 512x). \nCan be found in the game files since prerelease 0.4 until today (0.6.2). "
-	},
-	//DECOR
-	"9e98bfbc-011c-4642-a19b-392c2126c220":
-	{
-		"title": "Plastic Pumpkin",
-		"description": "Plastic pumpkin, most likely for a cancelled halloween update. Sourced from 0.4 prerelease. \nThe model is in .mesh format, meaning it's probably quite old. "
-	}
+   "0347134a-43d3-4e1b-9e53-ff0b3f2803ac" : {
+      "description" : "Old version of the Insulation Block. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures were taken from version 0.1.16, but it can be found in the files to this day [0.5.1].",
+      "title" : "Insulation Block [Old]"
+   },
+   "0de3796c-bbe8-47ba-bbf5-ec49ea4c9d73" : {
+      "description" : "A Block of Super Heavy Concrete. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Super Heavy Concrete Block"
+   },
+   "0e3eca03-e1b3-433a-9945-1e5afd14b028" : {
+      "description" : "A Block of Super Strong Steel. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Super Strong Steel Block"
+   },
+   "10eaa2ea-7a33-4012-9b64-cc8f7baf79f4" : {
+      "description" : "Old version of the Spaceship Block. \n\nThe textures were taken from version 0.1.16.",
+      "title" : "Spaceship Block [Old]"
+   },
+   "17e98b8b-0168-4c32-a465-d60f6ac88443" : {
+      "description" : "Indestructible Block found in the old versions of the game. \nA predecessor to today's Cracked Concrete/Framework Block! \n\n#FF0800Use #3D3DFF/restrictions #FF0800when working with it!!\n\n#909191The textures were taken from version 0.1.16.",
+      "title" : "Indestructible Block [Old]"
+   },
+   "2d3a82a3-076e-45bd-8367-8f0f1abf6010" : {
+      "description" : "This NEW unused Deathbag Quest-Marker icon appeared in the files during the rollout of 0.6 test verions.",
+      "title" : "Modern Deathbag Icon"
+   },
+   "36b277ba-72d7-44c6-894d-e28d7900cbce" : {
+      "description" : "Block of Ice. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Ice Block"
+   },
+   "36b277ba-72d7-44c6-894d-e28d7900cbcf" : {
+      "description" : "Block of Ice, transparent version. We weren't able to tell if it should be transparent or not. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Ice Block [Transparent]"
+   },
+   "67640178-561c-423b-9176-e1d2ea8bb1cb" : {
+      "description" : "Similar to the blueberry container, but is a separate models + of course the textures.\n\nInterestingly, there are 2 sets of textures for this, 1 titled decor and 1 titled container. the NOR and ASG are the same, but for the dif the decor is 2x the size of the containers one (1024x vs 512x). \nCan be found in the game files since prerelease 0.4 until today (0.6.2). ",
+      "title" : "Water Container"
+   },
+   "749f69e0-56c9-488c-adf6-66c58531818c" : {
+      "description" : "A different version of the Concrete Slab Block. \nThe ASG texture has been reduced to 25% opacity to account for game engine changes and give the block it's intended look.\nThe UUID of this block was taken from the Leaked Warehouse from 2017, as we are almost completely sure that this block was used for the floor of it. \nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Concrete Slab Block v2"
+   },
+   "780379e9-fb76-48dd-aed0-02709db7d24e" : {
+      "description" : "This NEW unused Deathbag Quest-Marker icon appeared in the files during the rollout of 0.6 test verions.",
+      "title" : "Old Spaceship Controlboard"
+   },
+   "7bc7fb6a-84fe-4791-8062-effdf8489544" : {
+      "description" : "Block of Copper. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Copper Block"
+   },
+   "874428b5-4495-4884-ac96-2669eff04183" : {
+      "description" : "It's spherical! An early iteration of the Challenge Ball as seen in DB 15.",
+      "title" : "Challenge Ball"
+   },
+   "8ab33adb-aad6-4d84-b627-af2fdc7d4ac4" : {
+      "description" : "",
+      "title" : "Spaceship Interior Gear"
+   },
+   "9e98bfbc-011c-4642-a19b-392c2126c220" : {
+      "description" : "Plastic pumpkin, most likely for a cancelled halloween update. Sourced from 0.4 prerelease. \nThe model is in .mesh format, meaning it's probably quite old. ",
+      "title" : "Plastic Pumpkin"
+   },
+   "b016c495-db82-4f31-87ee-8b70ae614fc2" : {
+      "description" : "A Big LED Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!",
+      "title" : "Grow Light - LED Big"
+   },
+   "b1ca2719-e37c-42eb-951e-3129ee0273da" : {
+      "description" : "A Block called Building01. \n\nThe textures for it were found in version 0.5 of the game.",
+      "title" : "Building01 Block"
+   },
+   "c6f86d19-b54b-4b0e-80b2-7d11631928b6" : {
+      "description" : "Block of Coal. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Coal Block"
+   },
+   "ce808348-28a0-4f12-889f-bfbd35a469a7" : {
+      "description" : "A Block called Test01. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Test01 Block"
+   },
+   "cee1a3e5-7734-45b0-861f-3dfecf3d94e5" : {
+      "description" : "This NEW unused Spaceship Quest-Marker icon appeared in the files during the rollout of 0.6 test verions.",
+      "title" : "Modern Spaceship Icon"
+   },
+   "db1932f4-aae6-4af9-890f-aac4d2c142e6" : {
+      "description" : "Block looking like a PCB with various circuitry on it. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Mechanical Block"
+   },
+   "e2801e6a-7608-4284-a03a-76148a2bf498" : {
+      "description" : "A Round Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!",
+      "title" : "Grow Light - Round"
+   },
+   "e924ef68-d10e-4e57-bbf1-cc5fff255e1a" : {
+      "description" : "A small LED Grow Light that never made it into the game. \n\nSourced from test branch of 0.2.4, however can be found all the way back in 0.1.16.\nIt does not light up because dynamic lighting was not a thing back then.\n\nSmall tweaks have been applied to the code to make it look as intended!",
+      "title" : "Grow Light - LED"
+   },
+   "f0377f58-0bba-480f-9ec9-46348995a037" : {
+      "description" : "This NEW unused Mechanic Station Quest-Marker icon appeared in the files during the rollout of 0.6 test verions.",
+      "title" : "Modern Mechanic Station Icon"
+   },
+   "f1bd3bf7-0b6c-4685-bbd4-ffae1ea50b30" : {
+      "description" : "Blocks of Strong Steel. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Strong Steel Block"
+   },
+   "f35b4300-f939-40c1-82a4-9ab371eed6f2" : {
+      "description" : "Unused, third, antenna dish! Can be found in the files to this day (at least 0.6.2).",
+      "title" : "Antenna Dish 02"
+   },
+   "fe9d25c5-7a7d-4384-9a70-3899728dbee2" : {
+      "description" : "A Plaster Block covered with Tape. \n\nThe textures for it were found in the prerelease of Survival mode.",
+      "title" : "Taped Plaster Block"
+   }
 }
