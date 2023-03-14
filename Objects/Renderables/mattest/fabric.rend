@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/mattest/mattest_sphere_geo.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/mattest/fabric_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/mattest/fabric_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/mattest/fabric_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}
